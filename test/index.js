@@ -5,6 +5,7 @@ var all = [
   , require('./tests/handler-default-index.js')
   , require('./tests/handler-legacy-bundle.js')
   , require('./tests/bundler-browserify.js')
+  , require('./tests/handler-gatekeeper.js')
   , require('./tests/bundler-watchify.js')
   , require('./tests/args-to-options.js')
   , require('./tests/create-handler.js')
